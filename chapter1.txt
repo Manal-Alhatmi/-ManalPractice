@@ -1,4 +1,8 @@
 The map was old, etched on weather-worn parchment and discovered beneath a loose floorboard in the village blacksmith’s hut. Elen, a curious orphan of barely fifteen winters, had only meant to escape the summer heat when she stumbled upon it. The ink shimmered faintly, as though alive, and strange symbols writhed at the edges like vines in a dream. At the center, drawn in silver leaf, loomed the forest no villager dared name aloud—the Whispering Woods. Elen’s fingers trembled. The stories spoke of voices in the trees, paths that moved, and a secret lost before time had a name.
+<<<<<<< HEAD
 
 
 Elara hesitated at the edge of the forest, where the last rays of sunlight barely reached beneath the tangled canopy. As she stepped forward, the sounds of the outside world faded, replaced by the creaking of trees and the soft sigh of wind through leaves. The woods felt alive—not hostile, but watchful, as if weighing her presence. Her fingers brushed the rough bark of an ancient elm, grounding herself as her heartbeat steadied. Whatever lay ahead, she knew there was no turning back.
+=======
+Elara stepped beneath the arching boughs of the Whispering Woods, the air shifting instantly around her—cooler, denser, laced with the earthy scent of moss and damp leaves. The towering trees leaned close, their branches rustling in a hush that seemed more like voices than wind. Each footstep sank slightly into the moss-covered ground, muffled and cautious. Her heart thudded not with fear, but with a strange reverence, as if she'd passed through a veil and into a world older than memory.
+>>>>>>> add-companion
