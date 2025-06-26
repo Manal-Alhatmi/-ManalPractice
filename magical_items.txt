@@ -1,1 +1,9 @@
+HEAD
 The Orb of Fleeting Moments is a mystical amulet granting brief glimpses into the past. When held, it reveals short memories lost in time, allowing the bearer to uncover secrets or forgotten truths. Its power fades quickly, making each vision precious and ephemeral.
+
+Introduce Orb of Fleeting Moments
+The Orb of Fleeting Moments grants its bearer brief, ethereal glimpses into the past. By focusing its shimmering surface, one can witness fragments of history, unlocking forgotten secrets or avoiding past mistakes. This ephemeral power fades quickly, reminding the user that time itself is always slipping away.
+
+
+
+side-quest
